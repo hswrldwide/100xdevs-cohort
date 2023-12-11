@@ -6,6 +6,7 @@
 */
 
 function countVowels(str) {
+<<<<<<< HEAD
     let count = 0;
     let strArray = str.toLowerCase().split('');
     for (let i = 0; i<strArray.length; i++){
@@ -14,6 +15,9 @@ function countVowels(str) {
       }
     }
     return count;
+=======
+    // Your code here
+>>>>>>> upstream/master
 }
 
 module.exports = countVowels;

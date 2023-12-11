@@ -4,6 +4,7 @@
 */
 
 function isPalindrome(str) {
+<<<<<<< HEAD
   const lowerStr = str.toLowerCase();
 
   const alphanumericStr = lowerStr.replace(/[^a-z0-9]/g, '');
@@ -14,6 +15,8 @@ function isPalindrome(str) {
     }
   }
 
+=======
+>>>>>>> upstream/master
   return true;
 }
 

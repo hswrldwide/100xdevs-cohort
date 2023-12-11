@@ -9,6 +9,7 @@ There is no automated test for this one, this is more for you to understand time
 */
 
 function calculateTime(n) {
+<<<<<<< HEAD
   const startTime = new Date().getTime();
 
   let sum = 0;
@@ -29,3 +30,7 @@ function calculateTime(n) {
 calculateTime(100);
 calculateTime(100000);
 calculateTime(1000000000);
+=======
+    return 0.01;
+}
+>>>>>>> upstream/master

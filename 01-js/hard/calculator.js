@@ -16,6 +16,7 @@
   Once you've implemented the logic, test your code by running
 */
 
+<<<<<<< HEAD
 
 class Calculator {
   constructor() {
@@ -89,5 +90,8 @@ class Calculator {
   
 }
 
+=======
+class Calculator {}
+>>>>>>> upstream/master
 
 module.exports = Calculator;
